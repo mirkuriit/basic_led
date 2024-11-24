@@ -29,8 +29,8 @@ class Buttons(Enum):
     delay="delay"
     pinMode="pinMode"
 
-    freeze="build"
-    run="run"
+    freeze="собрать😃"
+    run="загрузить на микросхемку😄"
 
 
 def RECTANGLE_CONNECTIONS_init(arr):
